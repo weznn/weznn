@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Mert</h1>
 <p>AI & Data Scientist | Python Developer | Building smart solutions with code</p>
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlvemloOGUzOWlvMmlyMHgwMG04aXVrZTZ0d3J4bHh4cHFibWhucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TPJAvvWbSN61O/giphy.gif
-" alt="Home_turanakcann">
+    <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="Home_turanakcann">
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
